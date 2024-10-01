@@ -1,0 +1,9 @@
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.exe.config
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\bin\Debug\المحاضرة الخامسة.pdb
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csprojResolveAssemblyReference.cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Form1.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة_الخامسة.Properties.Resources.resources
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.csproj.GenerateResource.Cache
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.exe
+c:\users\afaq\documents\visual studio 2012\Projects\المحاضرة الخامسة\المحاضرة الخامسة\obj\Debug\المحاضرة الخامسة.pdb
